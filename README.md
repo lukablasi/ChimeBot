@@ -39,9 +39,11 @@ Make sure your app has correct link to the place where shift plan is located. Ma
 
 Adjust your "planModifier" - it's a variable that calculates % of a plan that should be processed at a certain point in time. Example - on a snip below at 09:00 11% of the planned volume should be processed and at 13:30 that would be 56%. You can change a value of the modifier and adjust it to your shift trends.
 
-![](https://github.com/lukablasi/ChimeBot/blob/main/screenshots/planmodifier.PNG)
+![](https://github.com/lukablasi/ChimeBot/blob/main/screenshots/cron.PNG)
 
 Cron functions at the bottom set a time schedule for each function. Be default "main" function which is responsible for calculations and sneding messages out runs at every hour from 09 to 18 at each 00 and 30 minute. If you want to adjust it see Cron documentation for a detailed syntax.
+
+
 
 <h2>Created By</h2>
 Lukasz Milcz <br>
