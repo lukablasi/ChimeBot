@@ -15,4 +15,17 @@ At the end of the shift the app will delete saved shift plan from local director
   <li>XLSX</li>
 </ul>
 
-## 
+## Set Up Instructions
+<ol>
+  <li>Download project files to your local directory.</li>
+  <li>Make sure you have NodeJS installed on your machine</li>
+  <li>Open a terminal in a folder where project's files were downlaoded and run command "npm install"</li>
+  <li>If installation ends successfully run "node index.js"</li>
+  <li>After those steps in a terminal you should see a message "Server is successfully running on port 3000".</li>
+  <li>Leave the terminal open, it will print out a message in a console every time ChimeBot sends a chime out.</li>
+</ol>
+
+## How to use
+
+
+## How to adjust a bot for your shift requirements
