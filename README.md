@@ -23,7 +23,9 @@ At the end of the shift the app will delete saved shift plan from local director
   <li>If installation ends successfully run "node index.js"</li>
   <li>After those steps in a terminal you should see a message "Server is successfully running on port 3000".</li>
   <li>Leave the terminal open, it will print out a message in a console every time ChimeBot sends a chime out.</li>
+  
   ![](https://github.com/lukablasi/ChimeBot/blob/main/screenshots/terminal.PNG)
+  
 </ol>
 
 ## How to use
