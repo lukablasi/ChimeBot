@@ -29,11 +29,11 @@ At the end of the shift the app will delete saved shift plan from local director
 </ol>
 
 ## How to use
-The app will open a browser page and select required options from PPR. This process will not be seen by a user however can be if Playwriht's configurations are changed in "index.js". The ChimeBot will select desirable settings but those can be adjusted in a code.
+The app will open a browser page and select required options from PPR. This process will not be seen by a user however can be if Playwright's configurations are changed in "index.js". The ChimeBot will select desirable settings but those can be adjusted in a code.
 
 ![](https://github.com/lukablasi/ChimeBot/blob/main/screenshots/ppr.PNG)
 
-Make sure your app has correct link to the place where shift plan is located. Make sure it is searching for a file with a correct name - by default it a current day in a format DD/MM/YYYY with a string "Shift Plan.xlsm". The app will not be able to find a file if file's name doesn't have an expected value.
+Ensure your app has correct link to the place where shift plan is located. Make sure it is searching for a file with a correct name - by default it a current day in a format DD/MM/YYYY with a string "Shift Plan.xlsm". The app will not be able to find a file if file's name doesn't have an expected value.
 
 ![](https://github.com/lukablasi/ChimeBot/blob/main/screenshots/shiftplan.PNG)
 
